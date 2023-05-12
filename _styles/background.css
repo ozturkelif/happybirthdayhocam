@@ -1,6 +1,6 @@
 .background {
   position: relative;
-  background: var(--background);
+  background: var(--arkaplan);
   color: var(--text);
   z-index: 1;
 }
